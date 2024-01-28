@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4E7478A82B668FCE004AE387 /* Philipp3107.github.io in Resources */ = {isa = PBXBuildFile; fileRef = 4E7478A72B668FCE004AE387 /* Philipp3107.github.io */; };
+		4E7478AA2B6690E7004AE387 /* SE_Doc.docc in Sources */ = {isa = PBXBuildFile; fileRef = 4E7478A92B6690E7004AE387 /* SE_Doc.docc */; };
 		4ECFD5D72B62745A00137A28 /* Software_Engenieering_DocumentationApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ECFD5D62B62745A00137A28 /* Software_Engenieering_DocumentationApp.swift */; };
 		4ECFD5D92B62745A00137A28 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ECFD5D82B62745A00137A28 /* ContentView.swift */; };
 		4ECFD5DB2B62745C00137A28 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4ECFD5DA2B62745C00137A28 /* Assets.xcassets */; };
@@ -14,6 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4E7478A72B668FCE004AE387 /* Philipp3107.github.io */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Philipp3107.github.io; sourceTree = "<group>"; };
+		4E7478A92B6690E7004AE387 /* SE_Doc.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = SE_Doc.docc; sourceTree = "<group>"; };
 		4ECFD5D32B62745A00137A28 /* Software_Engenieering_Documentation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Software_Engenieering_Documentation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4ECFD5D62B62745A00137A28 /* Software_Engenieering_DocumentationApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Software_Engenieering_DocumentationApp.swift; sourceTree = "<group>"; };
 		4ECFD5D82B62745A00137A28 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -36,6 +40,8 @@
 		4ECFD5CA2B62745A00137A28 = {
 			isa = PBXGroup;
 			children = (
+				4E7478A92B6690E7004AE387 /* SE_Doc.docc */,
+				4E7478A72B668FCE004AE387 /* Philipp3107.github.io */,
 				4ECFD5D52B62745A00137A28 /* Software_Engenieering_Documentation */,
 				4ECFD5D42B62745A00137A28 /* Products */,
 			);
@@ -128,6 +134,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4ECFD5DF2B62745C00137A28 /* Preview Assets.xcassets in Resources */,
+				4E7478A82B668FCE004AE387 /* Philipp3107.github.io in Resources */,
 				4ECFD5DB2B62745C00137A28 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -139,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E7478AA2B6690E7004AE387 /* SE_Doc.docc in Sources */,
 				4ECFD5D92B62745A00137A28 /* ContentView.swift in Sources */,
 				4ECFD5D72B62745A00137A28 /* Software_Engenieering_DocumentationApp.swift in Sources */,
 			);
