@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'Software_Engenieering_Documentation' in project 'Software_Engenieering_Documentation' (no dependencies)
